@@ -44,7 +44,3 @@
   <img src = "https://github.com/rachelle-norman/Bike_Sales_Dashboard/assets/129090943/a4e0ed36-1050-41da-9429-45232acc0f34" alt="Image" width="500">
 
 4. In the 'Dashboards' worksheet, I copied the visualizations from the 'Pivot Tables' worksheet over and formatted them to my liking to create a visually appealing, yet easy to understand dashboard to relay some interesting sales information.
-
-## Findings and Assumptions
-
-
